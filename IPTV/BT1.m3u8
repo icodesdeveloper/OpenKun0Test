@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:0,4K CANVAS
+#EXTVLCOPT:network-caching=1000
+http://xtra.fireottplus.com:2052/017458648389/407609858756/241330?checkedby:iptvcat.com
+#EXTINF:0,Ketnet
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1960?checkedby:iptvcat.com
+#EXTINF:32,Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:iptvcat.com
+#EXTINF:0,4k_vtm_4-iptvcat.com.m3u8
+file:///C:/Users/Kuno/Downloads/4k_vtm_4-iptvcat.com.m3u8
+#EXTINF:0,4k_vtm_3-iptvcat.com.m3u8
+file:///C:/Users/Kuno/Downloads/4k_vtm_3-iptvcat.com.m3u8
+#EXTINF:0,4k_vtm_2-iptvcat.com.m3u8
+file:///C:/Users/Kuno/Downloads/4k_vtm_2-iptvcat.com.m3u8
+#EXTINF:0,4K VTM 1
+http://xtra.fireottplus.com:2052/017458648389/407609858756/241326?checkedby:iptvcat.com
+#EXTINF:0,4K EEN
+http://xtra.fireottplus.com:2052/017458648389/407609858756/241331?checkedby:iptvcat.com
+#EXTINF:0,4K CAZ 2
+http://xtra.fireottplus.com:2052/017458648389/407609858756/241337?checkedby:iptvcat.com
+#EXTINF:0,4K CANVAS
+http://xtra.fireottplus.com:2052/017458648389/407609858756/241330?checkedby:iptvcat.com
+#EXTINF:0,4K EEN
+http://xtra.fireottplus.com:2052/017458648389/407609858756/241331?checkedby:iptvcat.com
+#EXTINF:0,tvl-iptvcat.com.m3u8
+file:///C:/Users/Kuno/Downloads/tvl-iptvcat.com.m3u8
+#EXTINF:0,play_5-iptvcat.com.m3u8
+file:///C:/Users/Kuno/Downloads/play_5-iptvcat.com.m3u8
+#EXTINF:0,play_4-iptvcat.com.m3u8
+file:///C:/Users/Kuno/Downloads/play_4-iptvcat.com.m3u8
+#EXTINF:0,NAT GEO
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/46907?checkedby:iptvcat.com
