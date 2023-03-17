@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:30,StreamingPlatform
+#EXTVLCOPT:network-caching=1000
+https://live.zendzend.com/streams/29375_395474/720n/index.m3u8
+#EXTINF:0,4K EEN
+http://xtra.fireottplus.com:2052/017458648389/407609858756/241331?checkedby:iptvcat.com
